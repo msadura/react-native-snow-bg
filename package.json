@@ -1,0 +1,28 @@
+{
+  "name": "react-native-snow-bg",
+  "version": "1.0.0",
+  "description": "React Native Snow animated background component",
+  "main": "src/Snow.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msadura/react-native-snow-bg.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "snow",
+    "christmas",
+    "winter",
+    "weather"
+  ],
+  "author": "Epicode Marek Sadura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msadura/react-native-snow-bg/issues"
+  },
+  "homepage": "https://github.com/msadura/react-native-snow-bg#readme"
+}
