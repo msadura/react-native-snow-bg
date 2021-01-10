@@ -32,3 +32,12 @@ export default function App() {
 }
 ```
 
+# Snow props
+| Props                | Type          | Description  | Default      |
+| --------------------- |:-------------:| ------------ | ------------ |
+| `snowflakesCount` | `Integer`     | How many snowflakes to render.      |`100` |
+| `fallSpeed`  | `String<slow | medium | fast>`     | How fast snowflakes will fall.| `medium`         |
+| `fullScreen`    | `Boolean`     | If `true` component will always take screen width and height. If `false` it will take 100% parent width and height. Usefult if  you want snow background to fill jsut a part of your screen.      | `false` |
+
+# React Native Epicode Academy
+This package is a part of [React Native Epicode Academy](https://www.youtube.com/channel/UCjeodJlopQe4b91Y-uS18Ow) YouTube series.
